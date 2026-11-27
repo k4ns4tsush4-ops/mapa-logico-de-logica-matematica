@@ -1,0 +1,6 @@
+{
+  "name": "Lógica em Rede — WebQuest de Lógica Matemática",
+  "description": "WebQuest investigativa e laboratório interativo de Lógica Matemática estruturada segundo a metodologia de Bernie Dodge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
